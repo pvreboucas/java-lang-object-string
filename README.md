@@ -1,8 +1,8 @@
 # Curso de Java e java.lang: programe com a classe Object e String
 
-[<< CURSO ANTERIOR](https://github.com/pvreboucas/java-excecoes)
-
 [Curso de Java.lang da formação Java/Alura](https://cursos.alura.com.br/course/java-pacotes-e-java-lang)
+
+[<< CURSO ANTERIOR](https://github.com/pvreboucas/java-excecoes)
 
 [Principal](https://github.com/pvreboucas/java-lang-object-string)
 
