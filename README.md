@@ -1,5 +1,7 @@
 # Curso de Java e java.lang: programe com a classe Object e String
 
+[<< CURSO ANTERIOR](https://github.com/pvreboucas/java-excecoes)
+
 [Curso de Java.lang da formação Java/Alura](https://cursos.alura.com.br/course/java-pacotes-e-java-lang)
 
 [Principal](https://github.com/pvreboucas/java-lang-object-string)
@@ -14,3 +16,4 @@
 
 * [Aula 5 - A classe Object](https://github.com/pvreboucas/java-lang-object-string/tree/aula-05)
 
+[PRÓXIMO CURSO >>](https://github.com/pvreboucas/java-util)
